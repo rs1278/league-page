@@ -91,7 +91,7 @@ export const managers = [
 	"preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 	},{
 	"roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-	"name": "Tyler",
+	"name": "Michael",
 	//"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 	"location": "Providence, RI", // (optional)
 	"bio": "Lorem ipsum...",
@@ -113,7 +113,7 @@ export const managers = [
 	},
 	{
 	"roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-	"name": "Tyler",
+	"name": "Isaac",
 	//"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 	"location": "Providence, RI", // (optional)
 	"bio": "Lorem ipsum...",
@@ -135,7 +135,7 @@ export const managers = [
 	},
 	{
 	"roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-	"name": "Tyler",
+	"name": "Zach",
 	//"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 	"location": "Providence, RI", // (optional)
 	"bio": "Lorem ipsum...",
@@ -157,7 +157,7 @@ export const managers = [
 	},
 	{
 	"roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-	"name": "Tyler",
+	"name": "Matt",
 	//"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 	"location": "Providence, RI", // (optional)
 	"bio": "Lorem ipsum...",
@@ -179,7 +179,7 @@ export const managers = [
 	},
 	{
 	"roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-	"name": "Tyler",
+	"name": "Roman",
 	//"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 	"location": "Providence, RI", // (optional)
 	"bio": "Lorem ipsum...",
@@ -201,7 +201,7 @@ export const managers = [
 	},
 	{
 	"roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-	"name": "Tyler",
+	"name": "Emily",
 	//"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 	"location": "Providence, RI", // (optional)
 	"bio": "Lorem ipsum...",
@@ -223,7 +223,7 @@ export const managers = [
 	},
 	{
 	"roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-	"name": "Tyler",
+	"name": "Chris",
 	//"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 	"location": "Providence, RI", // (optional)
 	"bio": "Lorem ipsum...",
@@ -245,7 +245,7 @@ export const managers = [
 	},
 	{
 	"roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-	"name": "Tyler",
+	"name": "Kate",
 	//"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 	"location": "Providence, RI", // (optional)
 	"bio": "Lorem ipsum...",
@@ -267,7 +267,7 @@ export const managers = [
 	},
 	{
 	"roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-	"name": "Tyler",
+	"name": "Wendy",
 	//"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 	"location": "Providence, RI", // (optional)
 	"bio": "Lorem ipsum...",
